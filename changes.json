@@ -7,7 +7,7 @@
     "تحسين تجربة المستخدم العامة"
   ],
   "new_features": [
-            "all-plugins 2.0 py 3.14.3 04-04-2026", 
+            "all-plugins 2.0 py 3.14.3 03-04-2026", 
             "subssupport 1.8.0-r7 py 3.14.3 03-04-2026",              
             "HAZEM-WAHBA-Channels New 04-04-2026",
             "D.MNASR-Channels New 03-04-2026", 
@@ -17,7 +17,7 @@
             "xstreamity 5.39 plugin 03-04-2026",  
             "xklass 1.80 plugin New 03-04-2026",
             "estalker 1.36 plugin 03-04-2026",            
-            "Sat 04-04-2026 Time 02:10:00", 
+            "Sat 04-04-2026 Time 02:30:00",   
     ],
     "fixes": [
         "إصلاح مشكلة التحقق من التحديثات",
